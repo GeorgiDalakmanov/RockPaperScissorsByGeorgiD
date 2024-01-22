@@ -26,7 +26,7 @@ Rock - Paper - Scissors is a simple two player game, where you and your opponent
 
 You can play the game directly in your Web browser here:
 ![image](https://github.com/GeorgiDalakmanov/RockPaperScissorsByGeorgiD/assets/149368849/24111a7b-2ed1-46a1-a108-1cd3b2efce86) 
-(https://replit.com/@gecisd24/RockPaperScissors-Game-by-GeorgiD#Main.cs)
+https://replit.com/@gecisd24/RockPaperScissors-Game-by-GeorgiD#Main.cs
 
 
 
