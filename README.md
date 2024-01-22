@@ -1,6 +1,8 @@
 # The "Rock" - Paper - Scissors" Game
 A console-based C# implementation of the "Rock - Paper - Scissors" game.
+
 ![image](https://github.com/GeorgiDalakmanov/RockPaperScissorsByGeorgiD/assets/149368849/67457b0e-1886-4426-910a-dd9c0e4f0607)
+
 
 Rock - Paper - Scissors is a simple two player game, where you and your opponent (the computer) simultaneously choose one of the following three options: "rock", "paper" or "scissors". The rules are as follows:
 
@@ -18,6 +20,13 @@ Rock - Paper - Scissors is a simple two player game, where you and your opponent
 ![image](https://github.com/GeorgiDalakmanov/RockPaperScissorsByGeorgiD/assets/149368849/01a37eaa-8a5f-4875-9b7e-dca0ba26de07)
 
 [Source Code](RockPaperScissorsByGeorgiD.cs)
+
+
+## Live Demo
+
+You can play the game directly in your Web browser here:
+![image](https://github.com/GeorgiDalakmanov/RockPaperScissorsByGeorgiD/assets/149368849/24111a7b-2ed1-46a1-a108-1cd3b2efce86) 
+(https://replit.com/@gecisd24/RockPaperScissors-Game-by-GeorgiD#Main.cs)
 
 
 
